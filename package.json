@@ -1,0 +1,16 @@
+{
+  "name": "messages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "reef-client": "^1.0.0-beta.6",
+    "reef-pulse-emitter": "git+https://github.com/line64/node-reef-pulse-emitter.git"
+  }
+}
